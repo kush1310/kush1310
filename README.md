@@ -1,7 +1,8 @@
 # It's All About Me:
 I am Kush Amit Shah, a dedicated
-Computer Engineering student from India with proficiency in 00P Concepts, HTML,CSS, PHP, Java, C++.<br>
-× Novice Web Developer ×<br><br>✓ Bootstrap | C | C++ | CSS | Core Java | HTML | MySQL | Python | PHP | SQL ✓<br><br>Official Developer Of : -<br>ecoguardiansofficial.netlify.app
+Computer Engineering student from India with proficiency in 00P Concepts, HTML,CSS, PHP, Java, C++.<br><br>
+× Novice Web Developer ×<br><br>
+Official Developer Of : -<br>ecoguardiansofficial.netlify.app
 
 
 ## 🌐 Socials:
