@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="920" height="90" viewBox="0 0 920 90" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <rect width="100%" height="100%" fill="#060709"/>
+  <g font-family="Fira Code, monospace" text-anchor="middle" fill="#00AFA0">
+    <text x="50%" y="50%" font-size="20" font-weight="600" style="letter-spacing:0.6px" opacity="0.95">“Cybersecurity is not just an IT topic, it's a national shield.”</text>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="5s" repeatCount="indefinite"/>
+  </g>
+  <ellipse cx="460" cy="72" rx="260" ry="10" fill="#00AFA0" opacity="0.03"/>
+</svg>
