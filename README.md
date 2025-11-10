@@ -85,6 +85,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kush1310/kush1310/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
+</p>
+
+---
+
 <div align="center">
 
 <h2 style="color:#00FFC6;text-shadow:0 0 20px #00FFC6, 0 0 40px #00FFC6;"><i>“Cybersecurity is not just an IT topic, it's a national shield.”</i></h2>
