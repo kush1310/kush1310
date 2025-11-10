@@ -2,27 +2,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 12" preserveAspectRatio="none" width="100%" height="12">
   <defs>
     <radialGradient id="g" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#00AFA0" stop-opacity="0.95"/>
-      <stop offset="40%" stop-color="#00AFA0" stop-opacity="0.55"/>
+      <stop offset="0%" stop-color="#00AFA0" stop-opacity="0.92"/>
+      <stop offset="35%" stop-color="#00FFC6" stop-opacity="0.6"/>
       <stop offset="100%" stop-color="#00AFA0" stop-opacity="0"/>
     </radialGradient>
-
-    <filter id="f" x="-50%" y="-200%" width="200%" height="500%">
-      <feGaussianBlur stdDeviation="6" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="f" x="-50%" y="-250%" width="200%" height="500%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
 
-  <!-- soft center glow band -->
-  <rect x="0" y="0" width="1200" height="12" fill="url(#g)" filter="url(#f)">
-    <animate attributeName="opacity" values="0.45;0.95;0.45" dur="2.8s" repeatCount="indefinite"/>
+  <rect width="1200" height="12" fill="url(#g)" filter="url(#f)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.6s" repeatCount="indefinite"/>
   </rect>
-
-  <!-- thin crisp highlight line -->
-  <rect x="0" y="5.25" width="1200" height="1.5" fill="#DFFCF7" opacity="0.18">
-    <animate attributeName="x" values="-20;0;20;0;-20" dur="6s" repeatCount="indefinite"/>
+  <rect x="0" y="5" width="1200" height="1.2" fill="#ffffff" opacity="0.18">
+    <animate attributeName="x" values="-18;0;18;0;-18" dur="5.6s" repeatCount="indefinite"/>
   </rect>
 </svg>
