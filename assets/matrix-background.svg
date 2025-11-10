@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" preserveAspectRatio="xMidYMid slice" width="100%" height="260">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#00AFA0" stop-opacity="0.95"/>
+      <stop offset="50%" stop-color="#00FFC6" stop-opacity="0.65"/>
+      <stop offset="100%" stop-color="#00AFA0" stop-opacity="0.95"/>
+    </linearGradient>
+
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="chars" patternUnits="userSpaceOnUse" width="24" height="24">
+      <text x="0" y="18" font-family="monospace" font-size="14" fill="#e6fff9" opacity="0.06">01</text>
+    </pattern>
+  </defs>
+
+  <!-- soft glass base -->
+  <rect x="0" y="0" width="1200" height="260" fill="url(#g1)"/>
+
+  <!-- slow drifting binary ribbon -->
+  <g opacity="0.55">
+    <g transform="translate(0,10)">
+      <g>
+        <rect x="-200" y="0" width="1600" height="60" fill="url(#g2)" filter="url(#blur)" opacity="0.08">
+          <animate attributeName="x" values="-200;0;200;-200" dur="8s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="-400" y="40" width="1600" height="60" fill="url(#g2)" filter="url(#blur)" opacity="0.06">
+          <animate attributeName="x" values="200;0;-200;200" dur="10s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+  </g>
+
+  <!-- matrix-like vertical streams (pure SVG animated rectangles) -->
+  <g font-family="monospace" font-size="12" fill="#00AFA0" opacity="0.9" >
+    <!-- generate multiple columns of fading characters -->
+    <!-- Column set 1 -->
+    <g transform="translate(40,20)">
+      <text x="0" y="0">01001001</text>
+      <text x="0" y="30" opacity="0.85">10110101</text>
+      <text x="0" y="60" opacity="0.7">11011010</text>
+      <text x="0" y="90" opacity="0.55">01100110</text>
+      <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 10" dur="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Column set 2 -->
+    <g transform="translate(140,10)">
+      <text x="0" y="0">00110011</text>
+      <text x="0" y="30" opacity="0.9">11100011</text>
+      <text x="0" y="60" opacity="0.7">01010101</text>
+      <text x="0" y="90" opacity="0.5">10011001</text>
+      <animateTransform attributeName="transform" type="translate" from="0 -8" to="0 8" dur="4.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.95;0.15" dur="4.2s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Column set 3 -->
+    <g transform="translate(260,5)">
+      <text x="0" y="0">11001100</text>
+      <text x="0" y="30" opacity="0.85">00111100</text>
+      <text x="0" y="60" opacity="0.65">10101010</text>
+      <text x="0" y="90" opacity="0.45">01001001</text>
+      <animateTransform attributeName="transform" type="translate" from="0 -12" to="0 12" dur="3.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Column set 4 -->
+    <g transform="translate(420,22)">
+      <text x="0" y="0">11110000</text>
+      <text x="0" y="30" opacity="0.9">00001111</text>
+      <text x="0" y="60" opacity="0.7">11000011</text>
+      <text x="0" y="90" opacity="0.5">00110011</text>
+      <animateTransform attributeName="transform" type="translate" from="0 -6" to="0 6" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.12;0.9;0.12" dur="5s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Column set 5 -->
+    <g transform="translate(620,8)">
+      <text x="0" y="0">01010101</text>
+      <text x="0" y="30" opacity="0.85">10101010</text>
+      <text x="0" y="60" opacity="0.65">11100011</text>
+      <text x="0" y="90" opacity="0.45">00011100</text>
+      <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 10" dur="3.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.18;0.95;0.18" dur="3.9s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Column set 6 -->
+    <g transform="translate(840,16)">
+      <text x="0" y="0">10011001</text>
+      <text x="0" y="30" opacity="0.9">01100110</text>
+      <text x="0" y="60" opacity="0.7">11001100</text>
+      <text x="0" y="90" opacity="0.5">00111100</text>
+      <animateTransform attributeName="transform" type="translate" from="0 -9" to="0 9" dur="4.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.95;0.15" dur="4.6s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Column set 7 -->
+    <g transform="translate(980,12)">
+      <text x="0" y="0">01101101</text>
+      <text x="0" y="30" opacity="0.85">10110110</text>
+      <text x="0" y="60" opacity="0.65">01010110</text>
+      <text x="0" y="90" opacity="0.45">11010010</text>
+      <animateTransform attributeName="transform" type="translate" from="0 -7" to="0 7" dur="3.7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.95;0.2" dur="3.7s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- faint repeating texture -->
+  <rect x="0" y="0" width="1200" height="260" fill="url(#chars)" opacity="0.02"/>
+
+</svg>
