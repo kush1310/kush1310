@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="920" height="180" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <rect width="100%" height="100%" fill="#060709"/>
+  <defs>
+    <linearGradient id="r" x1="0" x2="1">
+      <stop offset="0%" stop-color="#003C37" stop-opacity="0.92"/>
+      <stop offset="50%" stop-color="#00AFA0" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#004F48" stop-opacity="0.92"/>
+    </linearGradient>
+    <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>
+
+  <!-- layered ribbons -->
+  <g opacity="0.56">
+    <rect x="-300" y="8" width="1800" height="60" fill="url(#r)" opacity="0.08" filter="url(#b)">
+      <animate attributeName="x" values="-300;0;300;-300" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-500" y="56" width="1800" height="50" fill="url(#r)" opacity="0.06" filter="url(#b)">
+      <animate attributeName="x" values="300;0;-300;300" dur="12s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- dense columns -->
+  <g font-family="monospace" font-size="12" fill="#66F3DA" opacity="0.95">
+    <!-- columns spaced to be mobile-friendly and dense -->
+    <g transform="translate(20,10)">
+      <text x="0" y="0">010010010110</text>
+      <text x="0" y="20" opacity="0.9">101101011001</text>
+      <text x="0" y="40" opacity="0.78">110110100101</text>
+      <text x="0" y="60" opacity="0.66">011001100110</text>
+      <animateTransform attributeName="transform" type="translate" from="0 -12" to="0 12" dur="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- replicate columns across width -->
+    <g transform="translate(80,6)"><text x="0" y="0">001100110011</text><text x="0" y="20" opacity="0.9">111000111001</text><text x="0" y="40" opacity="0.8">010101011010</text><animateTransform attributeName="transform" type="translate" from="0 -10" to="0 10" dur="3.9s" repeatCount="indefinite"/></g>
+    <g transform="translate(140,12)"><text x="0" y="0">110011001100</text><text x="0" y="20" opacity="0.9">001111001100</text><text x="0" y="40" opacity="0.78">101010101010</text><animateTransform attributeName="transform" type="translate" from="0 -11" to="0 11" dur="3.2s" repeatCount="indefinite"/></g>
+    <g transform="translate(200,4)"><text x="0" y="0">000111001111</text><text x="0" y="20" opacity="0.88">110011001100</text><text x="0" y="40" opacity="0.75">010101010101</text><animateTransform attributeName="transform" type="translate" from="0 -9" to="0 9" dur="4.2s" repeatCount="indefinite"/></g>
+    <g transform="translate(260,8)"><text x="0" y="0">101010101010</text><text x="0" y="20" opacity="0.9">010101010101</text><text x="0" y="40" opacity="0.78">111000110011</text><animateTransform attributeName="transform" type="translate" from="0 -12" to="0 12" dur="3.6s" repeatCount="indefinite"/></g>
+
+    <!-- extra columns for density -->
+    <g transform="translate(340,6)"><text x="0" y="0">100110011001</text><text x="0" y="20" opacity="0.9">011001100110</text><text x="0" y="40" opacity="0.78">110011001100</text><animateTransform attributeName="transform" type="translate" from="0 -8" to="0 8" dur="4.0s" repeatCount="indefinite"/></g>
+    <g transform="translate(420,10)"><text x="0" y="0">011001100110</text><text x="0" y="20" opacity="0.86">101110011001</text><text x="0" y="40" opacity="0.74">110110100101</text><animateTransform attributeName="transform" type="translate" from="0 -10" to="0 10" dur="3.8s" repeatCount="indefinite"/></g>
+    <g transform="translate(500,2)"><text x="0" y="0">111000111000</text><text x="0" y="20" opacity="0.88">010110010101</text><text x="0" y="40" opacity="0.76">001100110011</text><animateTransform attributeName="transform" type="translate" from="0 -9" to="0 9" dur="4.4s" repeatCount="indefinite"/></g>
+    <g transform="translate(580,8)"><text x="0" y="0">010101010101</text><text x="0" y="20" opacity="0.86">101010101010</text><text x="0" y="40" opacity="0.74">111100001100</text><animateTransform attributeName="transform" type="translate" from="0 -12" to="0 12" dur="3.5s" repeatCount="indefinite"/></g>
+    <g transform="translate(660,6)"><text x="0" y="0">000111001111</text><text x="0" y="20" opacity="0.9">110011001100</text><text x="0" y="40" opacity="0.78">010101010101</text><animateTransform attributeName="transform" type="translate" from="0 -11" to="0 11" dur="3.2s" repeatCount="indefinite"/></g>
+    <g transform="translate(740,12)"><text x="0" y="0">101001011010</text><text x="0" y="20" opacity="0.88">011011010110</text><text x="0" y="40" opacity="0.74">111000110011</text><animateTransform attributeName="transform" type="translate" from="0 -10" to="0 10" dur="4.1s" repeatCount="indefinite"/></g>
+    <g transform="translate(820,4)"><text x="0" y="0">100110011001</text><text x="0" y="20" opacity="0.87">011001100110</text><text x="0" y="40" opacity="0.76">110011001100</text><animateTransform attributeName="transform" type="translate" from="0 -9" to="0 9" dur="4.6s" repeatCount="indefinite"/></g>
+    <g transform="translate(900,10)"><text x="0" y="0">001111001111</text><text x="0" y="20" opacity="0.85">010101011010</text><text x="0" y="40" opacity="0.7">101010101010</text><animateTransform attributeName="transform" type="translate" from="0 -7" to="0 7" dur="3.7s" repeatCount="indefinite"/></g>
+    <g transform="translate(980,8)"><text x="0" y="0">110011001100</text><text x="0" y="20" opacity="0.9">001111001100</text><text x="0" y="40" opacity="0.75">101010101010</text><animateTransform attributeName="transform" type="translate" from="0 -8" to="0 8" dur="3.3s" repeatCount="indefinite"/></g>
+  </g>
+
+  <!-- faint texture -->
+  <rect width="100%" height="100%" fill="#000" opacity="0.02"/>
+</svg>
