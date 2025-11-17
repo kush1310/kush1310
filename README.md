@@ -14,16 +14,16 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Final year Diploma Student at *BBIT Gujarat*  
-- 🔐 Passionate about *Cybersecurity, Web Development, and System Testing*  
-- 💡 Strong foundation in *Core Java, Node.js, SQL, C/C++, Python, and Networking*
-- 🧠 Exploring *Digital Forensics, Threat Modelling, and Secure Web Apps*
-- 🏏 Techie by mind, cricketer by heart — love building and breaking things
+### About Me
+-  Final year Diploma Student at *BBIT Gujarat*  
+-  Passionate about *Cybersecurity, Web Development, and System Testing*  
+-  Strong foundation in *Core Java, Node.js, SQL, C/C++, Python, and Networking*
+-  Exploring *Digital Forensics, Threat Modelling, and Secure Web Apps*
+-  Techie by mind, cricketer by heart — love building and breaking things
 
 ---
 
-### 🧠 Tech Stack & Domains
+### Tech Stack & Domains
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-Expert-informational?style=for-the-badge&logo=html5&logoColor=white&color=orange" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats (Live)
+### Live GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kush1310&show_icons=true&theme=blueberry&hide=issues&count_private=true&border_radius=12" width="47%"/>
@@ -58,7 +58,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kush1310&theme=flat&column=7&margin-w=5&no-frame=true&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Contributions" />
@@ -66,7 +66,7 @@
 
 ---
 
-### 🔥 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kush1310&theme=blueberry&area=true&hide_border=true" />
@@ -74,21 +74,21 @@
 
 ---
 
-### 📂 Highlighted Projects
+### Highlighted Projects
 
-- 🔐 *Flat Maintenance System*  
+-  *Flat Maintenance System*  
   Full admin panel with payment system, PDF generation, flat tracking, typewriter animation and visual UI.  
   Tech Used: HTML, JS, CSS, jsPDF, SweetAlert
 
-- 🌐 *Portfolio Site*  
+-  *Portfolio Site*  
   Modern UI/UX responsive portfolio designed for self-branding and showcasing skillset.
 
-- 📡 *IoT Smart Systems*  
+-  *IoT Smart Systems*  
   Smart Parking, Home Automation, and Agriculture IoT projects using sensors and protocols.
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="mailto:kushshah1310@gmail.com"><img src="https://img.shields.io/badge/Gmail-kushshah1310%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -98,7 +98,7 @@
 
 ---
 
-### 💬 Personal Quote
+### Personal Quote
 > “Cybersecurity is not just an IT topic — it’s a national shield.”
 
 ---
