@@ -1,108 +1,159 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Kush%20Amit%20Shah&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+<!-- ========================== GITHUB PROFILE README FOR kush1310 ========================== -->
+<!-- Copy–paste directly into your GitHub Profile README (repo name must be exactly: kush1310) -->
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=700&height=50&lines=Diploma+in+Computer+Engineering+Student;Cybersecurity+Enthusiast+%7C+Future+Defender;Web+Developer+%7C+Node.js+%7C+SQL+%7C+Core+Java;Passionate+about+Network+Security+%26+System+Testing" alt="Typing SVG" />
-</h2>
+# 👋 Hi, I’m **Kush Amit Shah** — `kush1310`
+> Diploma in Computer Engineering • Aspiring Cybersecurity Specialist • Web Dev & Software Testing Enthusiast
 
 <p align="center">
-  <a href="https://github.com/kush1310"><img src="https://komarev.com/ghpvc/?username=kush1310&style=flat-square&color=0d6efd" alt="Profile Views" /></a>
-  <a href="https://github.com/kush1310?tab=followers"><img src="https://img.shields.io/github/followers/kush1310?label=Followers&style=flat-square&color=0d6efd" alt="GitHub Followers" /></a>
-</p>
+  <img alt="3D Orbital Hero" src='data:image/svg+xml;utf8,
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" preserveAspectRatio="xMidYMid meet">
+    <defs>
+      <linearGradient id="g1" x1="0" x2="1">
+        <stop offset="0" stop-color="%2327ae60"/>
+        <stop offset="0.5" stop-color="%231abc9c"/>
+        <stop offset="1" stop-color="%233498db"/>
+      </linearGradient>
+      <filter id="f1" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="8" result="b"/>
+        <feBlend in="SourceGraphic" in2="b"/>
+      </filter>
+    </defs>
 
----
+    <rect width="100%" height="100%" fill="%230b1020"/>
+    <g transform="translate(450,150)">
+      <g>
+        <ellipse rx="130" ry="40" fill="rgba(255,255,255,0.04)" />
+        <g id="orb">
+          <circle r="44" fill="url(%23g1)" filter="url(%23f1)"/>
+          <g transform="translate(-10,-10)" opacity="0.12">
+            <circle r="78" fill="none" stroke="%23ffffff" stroke-width="1"/>
+          </g>
+        </g>
 
-### 👨‍💻 About Me
-- 🎓 Final year Diploma Student at **BBIT Gujarat**  
-- 🔐 Passionate about **Cybersecurity, Web Development, and System Testing**  
-- 💡 Strong foundation in **Core Java, Node.js, SQL, C/C++, Python, and Networking**
-- 🧠 Exploring **Digital Forensics, Threat Modelling, and Secure Web Apps**
-- 🏏 Techie by mind, cricketer by heart — love building and breaking things
+        <g stroke="rgba(255,255,255,0.08)" stroke-width="2" fill="none">
+          <ellipse rx="190" ry="60">
+            <animateTransform attributeName="transform" type="rotate"
+              from="0" to="360" dur="10s" repeatCount="indefinite"/>
+          </ellipse>
+          <ellipse rx="170" ry="52" transform="rotate(60)">
+            <animateTransform attributeName="transform" type="rotate"
+              from="0" to="-360" dur="14s" repeatCount="indefinite"/>
+          </ellipse>
+          <ellipse rx="150" ry="44" transform="rotate(120)">
+            <animateTransform attributeName="transform" type="rotate"
+              from="0" to="360" dur="18s" repeatCount="indefinite"/>
+          </ellipse>
+        </g>
+      </g>
+    </g>
 
----
-
-### 🧠 Tech Stack & Domains
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-Expert-informational?style=for-the-badge&logo=html5&logoColor=white&color=orange" />
-  <img src="https://img.shields.io/badge/CSS-Expert-informational?style=for-the-badge&logo=css3&logoColor=white&color=blue" />
-  <img src="https://img.shields.io/badge/Core%20Java-Expert-informational?style=for-the-badge&logo=java&logoColor=white&color=red" />
-  <img src="https://img.shields.io/badge/Web%20Based%20Java-Intermediate-informational?style=for-the-badge&logo=java&logoColor=white&color=red" />
-  <img src="https://img.shields.io/badge/C/C++-Strong-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=blue" />
-  <img src="https://img.shields.io/badge/Software%20Models-UML-informational?style=for-the-badge&logo=uml&color=informational" />
-  <img src="https://img.shields.io/badge/Python-Intermediate-informational?style=for-the-badge&logo=python&logoColor=white&color=yellow" />
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F0DB4F" />
-  <img src="https://img.shields.io/badge/Node.js-Intermediate-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933" />
-  <img src="https://img.shields.io/badge/Information%20Security-Cybersec-informational?style=for-the-badge&logo=protonmail&logoColor=white&color=gray" />
-  <img src="https://img.shields.io/badge/Network%20Forensics-Analysis-informational?style=for-the-badge&logo=wireshark&logoColor=white&color=blue" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-informational?style=for-the-badge&logo=codeforces&color=important" />
-  <img src="https://img.shields.io/badge/SQL%20%26%20PL%2FSQL-Database-informational?style=for-the-badge&logo=oracle&logoColor=white&color=red" />
-  <img src="https://img.shields.io/badge/MySQL-Database-informational?style=for-the-badge&logo=mysql&logoColor=white&color=blue" />
-  <img src="https://img.shields.io/badge/Others-Shell%20Script%2C%20Bootstrap%2C%20Testing-informational?style=for-the-badge&logo=linux&color=lightgray" />
-</p>
-
----
-
-### 📊 GitHub Stats (Live)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kush1310&show_icons=true&theme=blueberry&hide=issues&count_private=true&border_radius=12" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kush1310&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D&border_radius=12" width="47%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush1310&layout=compact&theme=blueberry&border_radius=12" width="45%"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kush1310&theme=flat&column=7&margin-w=5&no-frame=true&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Contributions" />
+    <g fill="%23ffffff" font-family="Segoe UI, Roboto, Helvetica, Arial" font-weight="600" font-size="20">
+      <text x="50" y="220">Kush Amit Shah — <tspan font-weight="700">Cybersecurity • Web Dev • Testing</tspan></text>
+      <text x="50" y="245" font-size="14" fill="%23b0bec5">Crafting secure systems and clean frontends with intent.</text>
+    </g>
+  </svg>' width="100%"/>
 </p>
 
 ---
 
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kush1310&theme=blueberry&area=true&hide_border=true" />
-</p>
-
----
-
-### 📂 Highlighted Projects
-
-- 🔐 **Flat Maintenance System**  
-  _Full admin panel with payment system, PDF generation, flat tracking, typewriter animation and visual UI._  
-  `Tech Used: HTML, JS, CSS, jsPDF, SweetAlert`
-
-- 🌐 **Portfolio Site**  
-  _Modern UI/UX responsive portfolio designed for self-branding and showcasing skillset._
-
-- 📡 **IoT Smart Systems**  
-  _Smart Parking, Home Automation, and Agriculture IoT projects using sensors and protocols._
+## 🚀 Profile Summary
+- **Name:** Kush Amit Shah (`kush1310`)
+- **Location:** India  
+- **Current:** Diploma — Computer Engineering  
+- **Interests:** Cybersecurity, Web Development, Software Testing  
+- **Core languages & tools:** Java, JavaScript, Node.js, Python, PHP, MySQL, SQL/PL-SQL, C, C++, HTML, CSS, Bootstrap
 
 ---
 
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:kushshah1310@gmail.com"><img src="https://img.shields.io/badge/Gmail-kushshah1310%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/kush1310"><img src="https://img.shields.io/badge/LinkedIn-Kush%20Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/kush1310"><img src="https://img.shields.io/badge/GitHub-kush1310-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## 🧭 About Me
+I build secure and maintainable solutions with full-stack capabilities and a defensive security mindset. I enjoy:
+- Red team / blue team learning and practical labs  
+- Building responsive and accessible web interfaces  
+- Writing clean tests and automation flows  
 
 ---
 
-### 💬 Personal Quote
-> _“Cybersecurity is not just an IT topic — it’s a national shield.”_
+## 🧰 Tech Stack
+- **Languages:** Java, JavaScript (ES6+), Python, PHP, C, C++  
+- **Frontend:** HTML5, CSS3, Bootstrap, semantic structure  
+- **Backend / DB:** Node.js, MySQL, SQL & PL/SQL  
+- **Tools:** Git, VS Code, Postman, Docker (basic), Jest / Mocha (testing basics)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=100&section=footer"/>
-</p>
+## 📂 Selected Projects
+
+### 🔹 Personal Portfolio  
+`github.com/kush1310/portfolio`  
+Modern responsive portfolio with dark/light mode and animated UI sections.  
+
+### 🔹 Bug Bounty Lab  
+`github.com/kush1310/bug-bounty-lab`  
+Self-hosted vulnerability playground for practicing hacks and mitigations.  
+
+### 🔹 Secure-Login-Node  
+`github.com/kush1310/secure-login-node`  
+Node.js authentication template with hashing, rate-limiting and security headers.  
+
+### 🔹 Automated Test Suite  
+`github.com/kush1310/auto-test-suite`  
+Automated web application test cases and sample CI structure.  
+
+---
+
+## 🧪 Skills & Capabilities
+- OWASP Top 10 familiarity  
+- XSS, CSRF, SQLi testing fundamentals  
+- Semantic HTML layouting  
+- CSS Grid and Flexbox  
+- SQL queries, joins, stored procedures  
+- Backend routing, API building (Node.js)  
+- Writing unit tests and simple automation frameworks  
+
+---
+
+## 🎨 3D Animated Profile Card — (HTML + CSS)
+> Host this using GitHub Pages if you want a 3D animated profile card linked from your GitHub profile.
+
+```html
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Kush — Profile Card Demo</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+
+<body>
+  <main class="center-stage">
+    <section class="card">
+      <div class="card-left">
+        <div class="avatar-orbit">
+          <div class="avatar">KA</div>
+          <div class="ring r1"></div>
+          <div class="ring r2"></div>
+          <div class="ring r3"></div>
+        </div>
+      </div>
+
+      <aside class="card-right">
+        <h1>Kush Amit Shah <span class="muted">| kush1310</span></h1>
+        <p class="tagline">Aspiring Cybersecurity Specialist — Web Developer — Tester</p>
+
+        <div class="skills">
+          <span>Java</span>
+          <span>Node.js</span>
+          <span>Python</span>
+          <span>MySQL</span>
+        </div>
+
+        <div class="actions">
+          <a href="https://github.com/kush1310" target="_blank">View GitHub</a>
+          <a href="#contact" class="secondary">Contact</a>
+        </div>
+      </aside>
+    </section>
+  </main>
+</body>
+</html>
