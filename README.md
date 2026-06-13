@@ -384,14 +384,6 @@ The system integrates RAG pipelines, sequential recommendation models, and LLM-d
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="96" align="center">
-<img src="https://img.shields.io/badge/R--02-BI%2FPDFs-0d1117?style=flat-square&logoColor=white" />
-</td>
-</tr>
-</table>
-
 ---
 
 ## Research Focus Areas
