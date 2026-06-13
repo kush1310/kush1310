@@ -1,57 +1,51 @@
-<!-- ============================================================================= -->
-<!--                     KUSH AMIT SHAH — GITHUB PROFILE                          -->
-<!-- ============================================================================= -->
-
 <div align="center">
 
-<!-- ─── HEADER BANNER ─── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1b2a,100:1b263b&height=200&section=header&text=KUSH%20AMIT%20SHAH&fontSize=48&fontColor=e0e1dd&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cybersecurity%20Researcher%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&descColor=778da9&animation=fadeIn" />
+# KUSH AMIT SHAH
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=778DA9&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;Cybersecurity+Researcher;Cryptography+%26+Forensics+Engineer;ML+%26+RAG+Systems+Builder;Network+Packet+Analyst" alt="Typing SVG" />
 
 <br/>
 
-<!-- ─── STATUS LINE ─── -->
-<table>
-<tr>
-<td><strong>Location</strong></td>
-<td>Gujarat, India</td>
-<td><strong>Education</strong></td>
-<td>Computer Engineering, CHARUSAT University</td>
-</tr>
-<tr>
-<td><strong>Focus</strong></td>
-<td>Full-Stack Development, Cybersecurity</td>
-<td><strong>Contact</strong></td>
-<td><a href="mailto:kushshah1310@gmail.com">kushshah1310@gmail.com</a></td>
-</tr>
-</table>
+**Computer Engineering &nbsp;&middot;&nbsp; CHARUSAT University &nbsp;&middot;&nbsp; Gujarat, India &nbsp;&middot;&nbsp; UTC +05:30**
 
 <br/>
 
-<!-- ─── CONNECT BADGES ─── -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushshah1310)&nbsp;
+[![Email](https://img.shields.io/badge/Email-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushshah1310@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://cyseckush.netlify.app)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kush1310)
 
-<a href="https://linkedin.com/in/kush1310"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:kushshah1310@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/kush1310"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kush1310&style=flat-square&color=778da9&label=PROFILE+VIEWS&abbreviated=true)&nbsp;
+![Repos](https://img.shields.io/badge/REPOSITORIES-13-1b263b?style=flat-square)&nbsp;
+![Hackathons](https://img.shields.io/badge/HACKATHONS-2-1b263b?style=flat-square)&nbsp;
+![Since](https://img.shields.io/badge/GITHUB+SINCE-2024-1b263b?style=flat-square)
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+---
 
 ## About
 
-I am a Computer Engineering student at CHARUSAT University with a sharp focus on building production-grade software systems and researching cybersecurity methodologies. My work spans full-stack web applications, enterprise HR platforms, fintech solutions, cryptographic implementations, and network forensics.
+I am a Computer Engineering student at CHARUSAT University with a sharp focus on building production-grade software systems and researching cybersecurity methodologies. My work spans full-stack web applications, enterprise HR platforms, fintech solutions, cryptographic implementations, ML-driven recommendation engines, and network forensics.
 
-I architect systems with an emphasis on clean separation of concerns, strict type safety, and defensible security posture. I operate across the entire stack — backend API design, database schema modeling, frontend UI engineering, CI/CD pipelines, and deployment orchestration.
+I architect systems with an emphasis on clean separation of concerns, strict type safety, and a defensible security posture. I operate across the full stack — backend API design, relational schema modeling, frontend UI engineering, CI/CD pipelines, and deployment orchestration. On the research side, I work on retrieval-augmented generation frameworks, explainable ML systems, and network packet-level threat analysis.
 
 Outside of engineering, I follow cricket closely and approach both the field and the codebase with the same discipline: patience, strategy, and precision.
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## Currently Building
 
-## Technical Proficiency
+| Project | Domain | Role | Status |
+|---------|--------|------|--------|
+| **GroundedNutriRec** — RAG-based health-aware food recommendation framework | ML &middot; LLM &middot; Sequential Rec &middot; RAG | Data &amp; Sequential Recommendation Lead | Active &mdash; CHARUSAT Internship |
+| **PharmaLens Analytics** — Pharmacy business intelligence PDF report engine | BI &middot; ReportLab &middot; Data Pipelines | Backend &amp; PDF Layout Engineer | Active &mdash; CHARUSAT Internship |
+
+---
+
+## Technical Stack
 
 <table>
 <thead>
@@ -64,401 +58,438 @@ Outside of engineering, I follow cricket closely and approach both the field and
 <tr>
 <td><strong>Languages</strong></td>
 <td>
-<img src="https://img.shields.io/badge/Java-1F2937?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C/C++-1F2937?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-1F2937?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
 </td>
 </tr>
 <tr>
-<td><strong>Backend Frameworks</strong></td>
+<td><strong>Backend</strong></td>
 <td>
-<img src="https://img.shields.io/badge/Spring_Boot-1F2937?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-1F2937?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-1F2937?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" />
 </td>
 </tr>
 <tr>
-<td><strong>Frontend Frameworks</strong></td>
+<td><strong>Frontend</strong></td>
 <td>
-<img src="https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-1F2937?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-1F2937?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-1F2937?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=flat-square&logo=framer&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td><strong>Databases</strong></td>
 <td>
-<img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-1F2937?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/H2-1F2937?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle_PL/SQL-1F2937?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Oracle_PL%2FSQL-0d1117?style=flat-square&logo=oracle&logoColor=F80000" />
+<img src="https://img.shields.io/badge/H2-0d1117?style=flat-square&logo=databricks&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td><strong>Security</strong></td>
 <td>
-<img src="https://img.shields.io/badge/JWT_Auth-1F2937?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth2-1F2937?style=flat-square&logo=auth0&logoColor=white" />
-<img src="https://img.shields.io/badge/AES_Encryption-1F2937?style=flat-square&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/Network_Forensics-1F2937?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Security-1F2937?style=flat-square&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-0d1117?style=flat-square&logo=springsecurity&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/JWT_Auth-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth2-0d1117?style=flat-square&logo=auth0&logoColor=EB5424" />
+<img src="https://img.shields.io/badge/AES_Encryption-0d1117?style=flat-square&logo=letsencrypt&logoColor=003A70" />
+<img src="https://img.shields.io/badge/Network_Forensics-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7" />
 </td>
 </tr>
 <tr>
-<td><strong>DevOps and Tooling</strong></td>
+<td><strong>ML &amp; Data</strong></td>
 <td>
-<img src="https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-1F2937?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Maven-1F2937?style=flat-square&logo=apachemaven&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-1F2937?style=flat-square&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux_Shell-1F2937?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-0d1117?style=flat-square&logo=openai&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td><strong>Real-Time and APIs</strong></td>
+<td><strong>DevOps &amp; Tooling</strong></td>
 <td>
-<img src="https://img.shields.io/badge/WebSocket/STOMP-1F2937?style=flat-square&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-1F2937?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Axios-1F2937?style=flat-square&logo=axios&logoColor=white" />
-<img src="https://img.shields.io/badge/Brevo_SMTP-1F2937?style=flat-square&logo=minutemailer&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Maven-0d1117?style=flat-square&logo=apachemaven&logoColor=C71A36" />
+<img src="https://img.shields.io/badge/Linux_Shell-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25" />
+</td>
+</tr>
+<tr>
+<td><strong>Real-Time &amp; APIs</strong></td>
+<td>
+<img src="https://img.shields.io/badge/WebSocket%2FSTOMP-0d1117?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/Axios-0d1117?style=flat-square&logo=axios&logoColor=5A29E4" />
+<img src="https://img.shields.io/badge/Brevo_SMTP-0d1117?style=flat-square&logo=minutemailer&logoColor=white" />
 </td>
 </tr>
 </tbody>
 </table>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## Hackathon Record
+
+| Event | Format | Project | Outcome |
+|-------|--------|---------|---------|
+| **DuHacks 5.0** &mdash; Dharmsinh Desai University | 24-hour national hackathon | OptiWealth &mdash; AI portfolio rebalancing using Modern Portfolio Theory | Competed |
+| **Odoo GCET Hackathon** &mdash; GCET | Team hackathon (5-member team) | DayFlow &mdash; Enterprise HR Management System | Competed |
+
+---
 
 ## Projects
 
-> Selected works across full-stack development, fintech, enterprise systems, cryptography, and web design.
+> Selected works across full-stack development, fintech, enterprise platforms, cryptography, and systems design.
 
 <br/>
 
-<!-- ─── PROJECT 1 ─── -->
 <table>
 <tr>
-<td width="120" align="center">
-<br/>
-<strong>01</strong>
-<br/><br/>
+<td width="96" align="center">
+<img src="https://img.shields.io/badge/01-Fintech-0d1117?style=flat-square&logoColor=white" />
 </td>
 <td>
-<h3><a href="https://github.com/kush1310/DuHacks-FinTech">OptiWealth &mdash; Intelligent Portfolio Rebalancing</a></h3>
-<p>
-Built at DuHacks 5.0 hackathon. A fintech platform that applies Modern Portfolio Theory and AI-powered insights for intelligent portfolio rebalancing. Features risk metric calculations, portfolio optimization algorithms, and automated rebalancing recommendations.
-</p>
-<p>
-<img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-334155?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Brevo_SMTP-334155?style=flat-square&logo=minutemailer&logoColor=white" />
-</p>
+
+#### [OptiWealth &mdash; Intelligent Portfolio Rebalancing](https://github.com/kush1310/DuHacks-FinTech)
+
+Built at DuHacks 5.0. A fintech platform applying Modern Portfolio Theory and AI-driven insights for intelligent portfolio rebalancing. Implements covariance matrix modeling, risk-adjusted return calculations, and automated rebalancing recommendations via a Flask-backed REST API with a React + TypeScript frontend.
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Brevo_SMTP-0d1117?style=flat-square&logo=minutemailer&logoColor=white" />
+
 </td>
 </tr>
 </table>
 
-<!-- ─── PROJECT 2 ─── -->
 <table>
 <tr>
-<td width="120" align="center">
-<br/>
-<strong>02</strong>
-<br/><br/>
+<td width="96" align="center">
+<img src="https://img.shields.io/badge/02-Enterprise-0d1117?style=flat-square&logoColor=white" />
 </td>
 <td>
-<h3><a href="https://github.com/kush1310/DayFlow_HR-Management_System">DayFlow &mdash; HR Management System</a></h3>
-<p>
-Enterprise-grade human resources platform with employee authentication, attendance tracking with check-in/check-out, leave management with email notifications, payroll processing with PDF payslip generation, admin dashboard with analytics, and a full HR permissions system. Built with a separate Node.js backend and React frontend.
-</p>
-<p>
-<img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-334155?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-334155?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/PDFKit-334155?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-</p>
+
+#### [DayFlow &mdash; HR Management System](https://github.com/kush1310/DayFlow_HR-Management_System)
+
+Enterprise-grade human resources platform with employee authentication, attendance tracking (check-in/check-out), leave management with email notifications, payroll processing with PDF payslip generation, admin dashboard with analytics, and a full role-based permissions system. Fully decoupled Node.js backend and React frontend architecture.
+
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/PDFKit-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+
 </td>
 </tr>
 </table>
 
-<!-- ─── PROJECT 3 ─── -->
 <table>
 <tr>
-<td width="120" align="center">
-<br/>
-<strong>03</strong>
-<br/><br/>
+<td width="96" align="center">
+<img src="https://img.shields.io/badge/03-Hackathon-0d1117?style=flat-square&logoColor=white" />
 </td>
 <td>
-<h3><a href="https://github.com/kush1310/DayFlow-OdooGcet">DayFlow &mdash; Odoo GCET Hackathon Build</a></h3>
-<p>
-Competitive hackathon variant of the DayFlow HR system. Developed under time constraints with a 5-member team for the Odoo GCET event. Features a complete HR suite with employee management, attendance, leave tracking, payroll, and admin analytics — optimized for rapid deployment.
-</p>
-<p>
-<img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-334155?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+
+#### [DayFlow &mdash; Odoo GCET Hackathon Build](https://github.com/kush1310/DayFlow-OdooGcet)
+
+Competitive hackathon variant of the DayFlow HR system, delivered under time pressure with a 5-member team for the Odoo GCET event. Full HR suite: employee management, attendance, leave tracking, payroll, and admin analytics — architected and deployed within the competition window.
+
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+
 </td>
 </tr>
 </table>
 
-<!-- ─── PROJECT 4 ─── -->
 <table>
 <tr>
-<td width="120" align="center">
-<br/>
-<strong>04</strong>
-<br/><br/>
+<td width="96" align="center">
+<img src="https://img.shields.io/badge/04-Utility-0d1117?style=flat-square&logoColor=white" />
 </td>
 <td>
-<h3><a href="https://github.com/kush1310/Flat-Maintenance-System">Flat Maintenance System</a></h3>
-<p>
-Residential society management application with a full admin panel, monthly payment tracking, PDF receipt generation using jsPDF, flat unit management, expense logging, and a polished UI featuring typewriter animations and SweetAlert modals. Designed for housing society administrators.
-</p>
-<p>
-<img src="https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-334155?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/jsPDF-334155?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-</p>
+
+#### [Flat Maintenance System](https://github.com/kush1310/Flat-Maintenance-System)
+
+Residential society management application with full admin panel, monthly payment tracking, PDF receipt generation via jsPDF, flat unit management, expense logging, and a polished UI featuring typewriter animations and SweetAlert modals. Designed for housing society administrators requiring an offline-capable management interface.
+
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/jsPDF-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+
 </td>
 </tr>
 </table>
 
-<!-- ─── PROJECT 5 ─── -->
 <table>
 <tr>
-<td width="120" align="center">
-<br/>
-<strong>05</strong>
-<br/><br/>
+<td width="96" align="center">
+<img src="https://img.shields.io/badge/05-Security-0d1117?style=flat-square&logoColor=white" />
 </td>
 <td>
-<h3><a href="https://github.com/kush1310/AES-AdvanceEncryptionStandard-UsingC-">AES Encryption &mdash; Implementation in C</a></h3>
-<p>
-Low-level implementation of the Advanced Encryption Standard (AES) cipher in C. Covers the complete AES pipeline: SubBytes, ShiftRows, MixColumns, AddRoundKey, and key expansion. Built as part of cryptography and information security research.
-</p>
-<p>
-<img src="https://img.shields.io/badge/C-334155?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Cryptography-334155?style=flat-square&logo=letsencrypt&logoColor=white" />
-</p>
+
+#### [AES Encryption &mdash; Implementation in C](https://github.com/kush1310/AES-AdvanceEncryptionStandard-UsingC-)
+
+Low-level implementation of the AES-128/256 block cipher in C. Covers the complete AES pipeline: SubBytes (S-Box lookup table), ShiftRows, MixColumns (Galois Field GF(2&sup8;) arithmetic over the irreducible polynomial), AddRoundKey, and full key schedule expansion. Built as part of applied cryptography and information security research.
+
+<img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC" />
+<img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/Cryptography-0d1117?style=flat-square&logo=letsencrypt&logoColor=003A70" />
+
 </td>
 </tr>
 </table>
 
-<!-- ─── PROJECT 6 ─── -->
 <table>
 <tr>
-<td width="120" align="center">
-<br/>
-<strong>06</strong>
-<br/><br/>
+<td width="96" align="center">
+<img src="https://img.shields.io/badge/06-Web-0d1117?style=flat-square&logoColor=white" />
 </td>
 <td>
-<h3><a href="https://github.com/kush1310/EcoGuardians-Official_NGO-WEBSITE">EcoGuardians &mdash; NGO Website</a></h3>
-<p>
-Official website for an environmental non-governmental organization. Features responsive design, volunteer registration, event listings, donation integration, and contact management. Built with a focus on accessibility and clean information architecture.
-</p>
-<p>
-<img src="https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-334155?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white" />
-</p>
+
+#### [EcoGuardians &mdash; NGO Website](https://github.com/kush1310/EcoGuardians-Official_NGO-WEBSITE)
+
+Official website for an environmental non-governmental organization. Features fully responsive design, volunteer registration, event listings, donation flow integration, and contact management — with emphasis on accessibility standards and clean information architecture.
+
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+
 </td>
 </tr>
 </table>
 
-<!-- ─── PROJECT 7 ─── -->
 <table>
 <tr>
-<td width="120" align="center">
-<br/>
-<strong>07</strong>
-<br/><br/>
+<td width="96" align="center">
+<img src="https://img.shields.io/badge/07-Fintech-0d1117?style=flat-square&logoColor=white" />
 </td>
 <td>
-<h3><a href="https://github.com/kush1310/ICICI-Bank-Clone-Enhanced-UI">ICICI Bank &mdash; Enhanced UI Clone</a></h3>
-<p>
-Pixel-level UI recreation of the ICICI Bank web interface with enhanced visual design. Demonstrates proficiency in modern CSS techniques, responsive layouts, banking UI patterns, and attention to production-quality frontend engineering.
-</p>
-<p>
-<img src="https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-334155?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white" />
-</p>
+
+#### [ICICI Bank &mdash; Enhanced UI Clone](https://github.com/kush1310/ICICI-Bank-Clone-Enhanced-UI)
+
+Production-fidelity UI recreation of the ICICI Bank digital banking portal with enhanced visual design. Includes secure authentication simulation, dynamic user dashboards, and responsive layouts — demonstrating precision frontend engineering and banking-grade UI pattern proficiency.
+
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+
 </td>
 </tr>
 </table>
 
-<!-- ─── PROJECT 8 ─── -->
 <table>
 <tr>
-<td width="120" align="center">
-<br/>
-<strong>08</strong>
-<br/><br/>
+<td width="96" align="center">
+<img src="https://img.shields.io/badge/08-Utility-0d1117?style=flat-square&logoColor=white" />
 </td>
 <td>
-<h3><a href="https://github.com/kush1310/Budget-Management">Budget Management System</a></h3>
-<p>
-Personal and household budget tracking application with income/expense categorization, visual dashboards, and financial summaries. Designed for straightforward money management with clear data presentation.
-</p>
-<p>
-<img src="https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-334155?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white" />
-</p>
+
+#### [Budget Management System](https://github.com/kush1310/Budget-Management)
+
+Personal and household budget tracking application with income/expense categorization, visual dashboards, and financial summaries. Designed for straightforward money management with clear, accessible data presentation across household financial categories.
+
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+
 </td>
 </tr>
 </table>
 
-<!-- ─── PROJECT 9 ─── -->
 <table>
 <tr>
-<td width="120" align="center">
-<br/>
-<strong>09</strong>
-<br/><br/>
+<td width="96" align="center">
+<img src="https://img.shields.io/badge/09-Algorithms-0d1117?style=flat-square&logoColor=white" />
 </td>
 <td>
-<h3><a href="https://github.com/kush1310/TechTackle">TechTackle</a></h3>
-<p>
-Technology-focused web project exploring modern frontend patterns and interactive UI. Built as a learning exercise for advancing web development skills beyond the basics.
-</p>
-<p>
-<img src="https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-334155?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white" />
-</p>
+
+#### [Data Structures and Algorithms](https://github.com/kush1310/DSA)
+
+Curated reference implementations of DSA covering arrays, linked lists, trees, graphs, sorting algorithms, search strategies, and dynamic programming patterns. Maintained as a structured reference for competitive programming and technical interview preparation.
+
+<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C" />
+
 </td>
 </tr>
 </table>
 
-<!-- ─── PROJECT 10 ─── -->
 <table>
 <tr>
-<td width="120" align="center">
-<br/>
-<strong>10</strong>
-<br/><br/>
+<td width="96" align="center">
+<img src="https://img.shields.io/badge/10-Research-0d1117?style=flat-square&logoColor=white" />
 </td>
 <td>
-<h3><a href="https://github.com/kush1310/DSA">Data Structures and Algorithms</a></h3>
-<p>
-Curated collection of DSA implementations covering arrays, linked lists, trees, graphs, sorting, searching, and dynamic programming. Serves as a reference for competitive programming and technical interview preparation.
-</p>
-<p>
-<img src="https://img.shields.io/badge/Java-334155?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-334155?style=flat-square&logo=cplusplus&logoColor=white" />
-</p>
+
+#### [Research Documentation](https://github.com/kush1310/Research-Docs)
+
+Repository of research papers, technical documentation, and academic writing covering cybersecurity, network forensics, information security, and software engineering methodologies. Contains formal analyses and structured write-ups from academic coursework and internship research engagements.
+
+<img src="https://img.shields.io/badge/Cybersecurity-0d1117?style=flat-square&logo=hackthebox&logoColor=9FEF00" />
+<img src="https://img.shields.io/badge/Network_Forensics-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7" />
+<img src="https://img.shields.io/badge/Documentation-0d1117?style=flat-square&logo=readthedocs&logoColor=white" />
+
 </td>
 </tr>
 </table>
 
-<!-- ─── PROJECT 11 ─── -->
+---
+
+## Internship &amp; Research Work
+
+> Active research and internship contributions at CHARUSAT University targeting academic publication and production deployment.
+
+<br/>
+
 <table>
 <tr>
-<td width="120" align="center">
-<br/>
-<strong>11</strong>
-<br/><br/>
+<td width="96" align="center">
+<img src="https://img.shields.io/badge/R--01-ML%2FRAG-0d1117?style=flat-square&logoColor=white" />
 </td>
 <td>
-<h3><a href="https://github.com/kush1310/Research-Docs">Research Documentation</a></h3>
-<p>
-Repository of research papers, technical documentation, and academic writing related to cybersecurity, network forensics, information security, and software engineering methodologies.
-</p>
-<p>
-<img src="https://img.shields.io/badge/Research-334155?style=flat-square&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Documentation-334155?style=flat-square&logo=readthedocs&logoColor=white" />
-</p>
+
+#### GroundedNutriRec &mdash; Retrieval-Augmented Food Recommendation System
+
+Academic internship project at CHARUSAT targeting peer-reviewed publication. Full title: *GroundedNutriRec: Retrieval-Augmented Multi-Objective LLM Framework for Health-Aware and Explainable Food Recommendation.*
+
+The system integrates RAG pipelines, sequential recommendation models, and LLM-driven explainability over the Food.com Recipes and Interactions dataset (180K+ recipes, 700K+ user interaction records). Role: **Data &amp; Sequential Recommendation Lead** — dataset ingestion pipelines, EDA notebooks, interaction graph construction, and sequential model architecture.
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-0d1117?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458" />
+
 </td>
 </tr>
 </table>
 
-<br/>
+<table>
+<tr>
+<td width="96" align="center">
+<img src="https://img.shields.io/badge/R--02-BI%2FPDFs-0d1117?style=flat-square&logoColor=white" />
+</td>
+<td>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+#### PharmaLens Analytics &mdash; Pharmacy Business Intelligence System
+
+Enterprise pharmacy analytics platform delivering redesigned PDF business intelligence reports — Doctor Business Summary, Doctor Profile, Pharmacy Directory, and Products Directory. Built with ReportLab using a branded palette, featuring KPI cards, striped data tables, branded section headers, and production-grade structured layout grids engineered for print-quality PDF delivery.
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/ReportLab-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/Data_Visualization-0d1117?style=flat-square&logo=chartdotjs&logoColor=FF6384" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## Research Focus Areas
+
+```
+  Cybersecurity                    Machine Learning                   Systems
+  ─────────────                    ────────────────                   ───────
+  → AES / RSA Cryptography         → Retrieval-Augmented Generation   → REST API Design
+  → Network Packet Analysis        → Sequential Recommendation        → WebSocket / STOMP
+  → Threat Modeling & Forensics    → Explainable AI (XAI)            → Schema Modeling
+  → Authentication Protocols       → LLM Integration Pipelines        → CI/CD Pipelines
+  → JWT / OAuth2 / RBAC            → Multi-Objective Optimization     → Microservice Arch.
+  → Spring Security Hardening      → Collaborative Filtering          → Docker Deployment
+```
+
+---
 
 ## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kush1310&show_icons=true&hide=issues&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=778da9&icon_color=778da9&text_color=c9d1d9&border_radius=8" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kush1310&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1b263b&ring=778da9&fire=e0e1dd&currStreakLabel=778da9&sideLabels=778da9&currStreakNum=e0e1dd&sideNums=c9d1d9&dates=6e7681&border_radius=8" width="48%" />
-</div>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=kush1310&show_icons=true&hide=issues&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=778da9&icon_color=778da9&text_color=c9d1d9&border_radius=6" width="47%" alt="GitHub Stats" />
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=kush1310&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1b263b&ring=778da9&fire=e0e1dd&currStreakLabel=778da9&sideLabels=778da9&currStreakNum=e0e1dd&sideNums=c9d1d9&dates=6e7681&border_radius=6" width="47%" alt="GitHub Streak" />
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush1310&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=778da9&text_color=c9d1d9&border_radius=8&langs_count=10" width="40%" />
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush1310&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=778da9&text_color=c9d1d9&border_radius=6&langs_count=10" width="40%" alt="Top Languages" />
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<br/><br/>
 
-## Areas of Interest
-
-<div align="center">
-
-```
-                Full-Stack Architecture
-                        |
-        +---------------+---------------+
-        |               |               |
-   Backend API     Frontend SPA    Database Design
-   Spring Boot     React + TS      PostgreSQL
-   Node.js         Tailwind CSS    MySQL
-   REST + WS       Framer Motion   Schema Modeling
-        |               |               |
-        +---------------+---------------+
-                        |
-                  Security Layer
-                        |
-        +---------------+---------------+
-        |               |               |
-   Authentication   Cryptography   Forensics
-   JWT + OAuth2     AES / RSA      Network Analysis
-   RBAC / CORS      Hashing        Threat Modeling
-   Rate Limiting    Key Exchange   Packet Inspection
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kush1310&bg_color=0d1117&color=778da9&line=415a77&point=778da9&area=true&area_color=1b263b&hide_border=true&radius=6" width="96%" alt="Contribution Activity" />
 
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 ---
 
+## Architecture &amp; Competency Map
+
+```
+                          Full-Stack Architecture
+                                   |
+             +---------------------+---------------------+
+             |                     |                     |
+        Backend API           Frontend SPA          Database Design
+        Spring Boot           React + TS             PostgreSQL
+        Node.js               Tailwind CSS           MySQL / Oracle
+        REST + WebSocket       Framer Motion          Schema Modeling
+             |                     |                     |
+             +---------------------+---------------------+
+                                   |
+                       Security & Cryptography Layer
+                                   |
+             +---------------------+---------------------+
+             |                     |                     |
+      Authentication          Cryptography           Forensics
+      JWT + OAuth2             AES / RSA             Network Analysis
+      Spring Security          Hashing               Threat Modeling
+      RBAC / CORS              Key Exchange          Packet Inspection
+      Rate Limiting            Digital Signatures     Wireshark Analysis
+             |                     |                     |
+             +---------------------+---------------------+
+                                   |
+                          ML & Data Research
+                                   |
+             +---------------------+---------------------+
+             |                     |                     |
+       RAG Pipelines          Sequential Models      Explainability
+       LLM Integration        Collaborative Filter   Health-Aware Rec
+       Vector Retrieval        Interaction Graphs     Academic Writing
+```
+
+---
+
+<div align="center">
+
+**Kush Amit Shah** &nbsp;&middot;&nbsp; Computer Engineering &nbsp;&middot;&nbsp; CHARUSAT University
+
 <br/>
 
-_"The measure of intelligence is the ability to change."_ — Albert Einstein
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushshah1310)&nbsp;
+[![Email](https://img.shields.io/badge/kushshah1310%40gmail.com-1c1c1c?style=flat-square&logo=gmail&logoColor=white)](mailto:kushshah1310@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/cyseckush.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://cyseckush.netlify.app)
 
 <br/>
 
-**Kush Amit Shah** &nbsp;|&nbsp; Computer Engineering &nbsp;|&nbsp; CHARUSAT University
-
-<a href="mailto:kushshah1310@gmail.com">kushshah1310@gmail.com</a> &nbsp;&middot;&nbsp; <a href="https://linkedin.com/in/kush1310">linkedin.com/in/kush1310</a> &nbsp;&middot;&nbsp; <a href="https://github.com/kush1310">github.com/kush1310</a>
-
-<br/>
-
-<!-- ─── FOOTER BANNER ─── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1b2a,100:1b263b&height=80&section=footer" />
+*"The measure of intelligence is the ability to change."* &mdash; Albert Einstein
 
 </div>
