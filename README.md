@@ -465,7 +465,7 @@ The system integrates RAG pipelines, sequential recommendation models, and LLM-d
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushshah1310)&nbsp;
-[![Email](https://img.shields.io/badge/kushshah1310%40gmail.com-1c1c1c?style=flat-square&logo=gmail&logoColor=white)](mailto:kushshah1310@gmail.com)&nbsp;
+[![Email](https://img.shields.io/badge/kushshah.ce%40gmail.com-1c1c1c?style=flat-square&logo=gmail&logoColor=white)](mailto:kushshah.ce@gmail.com)&nbsp;
 [![Portfolio](https://img.shields.io/badge/cyseckush.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://cyseckush.netlify.app)
 
 <br/>
