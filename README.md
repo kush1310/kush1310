@@ -11,7 +11,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushshah1310)&nbsp;
-[![Email](https://img.shields.io/badge/Email-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushshah1310@gmail.com)&nbsp;
+[![Email](https://img.shields.io/badge/Email-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushshah.ce@gmail.com)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://cyseckush.netlify.app)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kush1310)
 
@@ -41,7 +41,7 @@ Outside of engineering, I follow cricket closely and approach both the field and
 | Project | Domain | Role | Status |
 |---------|--------|------|--------|
 | **GroundedNutriRec** — RAG-based health-aware food recommendation framework | ML &middot; LLM &middot; Sequential Rec &middot; RAG | Data &amp; Sequential Recommendation Lead | Active &mdash; CHARUSAT Internship |
-| **PharmaLens Analytics** — Pharmacy business intelligence PDF report engine | BI &middot; ReportLab &middot; Data Pipelines | Backend &amp; PDF Layout Engineer | Active &mdash; CHARUSAT Internship |
+| **AegisRx Analytics** — Pharmacy business intelligence PDF report engine | BI &middot; ReportLab &middot; Data Pipelines | Backend &amp; PDF Layout Engineer | Active &mdash; Live Client Project |
 
 ---
 
@@ -388,18 +388,6 @@ The system integrates RAG pipelines, sequential recommendation models, and LLM-d
 <tr>
 <td width="96" align="center">
 <img src="https://img.shields.io/badge/R--02-BI%2FPDFs-0d1117?style=flat-square&logoColor=white" />
-</td>
-<td>
-
-#### PharmaLens Analytics &mdash; Pharmacy Business Intelligence System
-
-Enterprise pharmacy analytics platform delivering redesigned PDF business intelligence reports — Doctor Business Summary, Doctor Profile, Pharmacy Directory, and Products Directory. Built with ReportLab using a branded palette, featuring KPI cards, striped data tables, branded section headers, and production-grade structured layout grids engineered for print-quality PDF delivery.
-
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/ReportLab-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458" />
-<img src="https://img.shields.io/badge/Data_Visualization-0d1117?style=flat-square&logo=chartdotjs&logoColor=FF6384" />
-
 </td>
 </tr>
 </table>
